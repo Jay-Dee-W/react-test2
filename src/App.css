@@ -23,3 +23,15 @@ button {
   background-color: none;
   color: blue
 }
+
+span {
+  margin-left: 2%;
+}
+select {
+  margin-right: 2%;
+}
+.footer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
