@@ -1,0 +1,25 @@
+.App{
+  margin: 2%;
+}
+p , h1{
+  width: 150px
+}
+.headings {
+  display: flex;
+  justify-content: flex-start;
+  
+}
+
+.row {
+  display: flex;
+  justify-content: flex-start;
+  border-top: 1px solid black;
+}
+
+button {
+  padding: 1%;
+  margin: 1%;
+  border: none;
+  background-color: none;
+  color: blue
+}
